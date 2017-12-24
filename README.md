@@ -37,6 +37,6 @@ This repo contains the following details:
   - Get your Slack invitation [here]() 
 
 ## Code of conduct
-* [Code of conduct](/code_of_conduct.md)
+* [Code of conduct](/Licence.md)
 
 For any queries raise a [issue](https://github.com/rusthacks/rust/issues) and please feel free to submit a PR anytime :) 
