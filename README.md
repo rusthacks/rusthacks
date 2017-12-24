@@ -33,6 +33,7 @@ This repo contains the following details:
 
 ## Community Channels: 
 * [Telegram Channel Link](https://t.me/rusthacks)
+* [@ Twitter]
 * [Rust India Slack Channel]() 
   - Get your Slack invitation [here]() 
 
