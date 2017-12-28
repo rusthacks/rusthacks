@@ -13,6 +13,7 @@ This repo contains the following details:
 ## Resources: 
 
 * [Important Rust Links](/Important_links.md)
+* [Rust Intro.](/Rust_Intro)
 * [5 - 10 mins Rust Demo](/short_demo)
 * [2 - 3 hrs Rust Event](/long_demo)
 * [Event Issue template](/Event_issue_format.md)
