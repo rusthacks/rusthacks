@@ -3,7 +3,7 @@ Introduction to Rust programming language
 
 ## Overview
 
-"Rust is a systems programming language that runs blazingly fast, prevents nearly all segfaults, and guarantees thread safety." – rust-lang.org
+"Rust is a systems programming language that runs blazingly fast, prevents nearly all segfaults, and guarantees thread safety." – [rust-lang.org](https://www.rust-lang.org/en-US/)
 
 ### What is Rust?
 
@@ -14,7 +14,7 @@ Rust is:
 * Functional
 * Zero-cost
 
-### Fast
+#### Fast
 
 * Rust compiles to native code
 * Rust has no garbage collector
@@ -23,7 +23,7 @@ Rust is:
 * Pay for exactly what you need...
 * ...and pay for most of it at compile time
 
-### Safe
+#### Safe
 
 * No null
 * No uninitialized memory
@@ -31,14 +31,14 @@ Rust is:
 * No double free errors
 * No manual memory management!
 
-### Functional
+#### Functional
 
 * First-class functions
 * Trait-based generics
 * Algebraic datatypes
 * Pattern matching
 
-### Zero-Cost 100% Safe Abstractions
+#### Zero-Cost 100% Safe Abstractions
 
 * Rust's defining feature
 * Strict compile-time checks remove need for runtime
