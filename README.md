@@ -18,6 +18,7 @@ This repo contains the following details:
 * [5 - 10 mins Rust Demo](/short_demo)
 * [2 - 3 hrs Rust Event](/long_demo)
 * [Rust Hacks Issue template](/.github/issue_template.md)
+* [Event Issue template](/Event_issue_format.md)
 * [Community Projects](/community_projects.md)
 * [Community Blog links](/community_blog.md)
 * [Monthly Calls](/monthly_calls.md)
