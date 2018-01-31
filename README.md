@@ -16,7 +16,7 @@ This repo contains the following details:
 * [Rust Intro.](/Rust_Intro)
 * [5 - 10 mins Rust Demo](/short_demo)
 * [2 - 3 hrs Rust Event](/long_demo)
-* [Rust Hacks Issue template](/.github)
+* [Rust Hacks Issue template](/.github/issue_template.md)
 * [Community Projects](/community_projects.md)
 * [Community Blog links](/community_blog.md)
 * [Monthly Calls](/monthly_calls.md)
