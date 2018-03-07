@@ -9,3 +9,7 @@ Description - 2 lines
 
 Please follow the above format.
 ~~~~
+
+### Rustathon
+* Description - RUSTATHON is an event based on RUST programming language organized by Mozilla community. 
+* [Github Repo](https://github.com/rusthacks/rustathon)
