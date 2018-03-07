@@ -65,8 +65,8 @@ Informed:
 ```
 
 ## Community Channels: 
-* [Telegram Channel Link](https://t.me/rusthacks)
-* [Follow us on Twitter](https://twitter.com/rusthack)
+* [![Join the chat at https://t.me/RustHacks](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/RustHacks)
+* [![Follow RustHacks at https://twitter.com/RustHack](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40RustHack)](https://twitter.com/RustHack)
 * [Follow us on Facebook](https://www.facebook.com/RustHacksOfficial/)
 * [Join the Facebook Group](https://www.facebook.com/groups/rusthacks)
 * [Rust Hacks Slack Channel]() 
