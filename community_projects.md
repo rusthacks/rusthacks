@@ -10,6 +10,10 @@ Description - 2 lines
 Please follow the above format.
 ~~~~
 
+### RainOfRust
+* RainOfRust is a month-long global campaign which is specifically focused on the Rust language.
+* [Github Repo](https://github.com/MozillaIndia/RustIndia/tree/master/RainOfRust)
+
 ### Rustathon
 * Description - RUSTATHON is an event based on RUST programming language organized by Mozilla community. 
 * [Github Repo](https://github.com/rusthacks/rustathon)
