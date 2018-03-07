@@ -17,6 +17,7 @@ This repo contains the following details:
 * [Rust Resources](/resources)
 * [5 - 10 mins Rust Demo](/short_demo)
 * [2 - 3 hrs Rust Event](/long_demo)
+* [Rust Hacks Open Design](https://github.com/rusthacks/OpenDesign)
 * [Rust Hacks Issue template](/.github/issue_template.md)
 * [Event Issue template](/Event_issue_format.md)
 * [Community Projects](/community_projects.md)
@@ -37,6 +38,7 @@ This repo contains the following details:
 ## Community Channels: 
 * [Telegram Channel Link](https://t.me/rusthacks)
 * [Follow us on Twitter](https://twitter.com/rusthack)
+* [Follow us on Facebook](https://www.facebook.com/RustHacksOfficial/)
 * [Join the Facebook Group](https://www.facebook.com/groups/rusthacks)
 * [Rust Hacks Slack Channel]() 
   - Get your Slack invitation [here]() 
