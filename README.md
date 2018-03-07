@@ -35,6 +35,35 @@ This repo contains the following details:
 * Mobilize Rust Lang in your local Region
 * Localize Rust resources
 
+## Issue Template:
+
+[Click here](https://github.com/rusthacks/Rust/issues/new) to create issue with default template
+
+```
+## Goal: 
+[One line goal description] 
+
+## Related Issues & Links: 
+[Reference meta issues and past issues] #
+
+## Roles:
+
+Responsible:
+
+Accountable:
+
+Supporting:
+
+Consulted:
+
+Informed: 
+
+## Required: 
+- [ ] Put mittens on all of the kittens (owner, Due: May 21st) 
+- [ ] Put mittens on all of the kittens (owner, Due: May 21st) 
+- [ ] Put mittens on all of the kittens (owner, Due: May 21st)
+```
+
 ## Community Channels: 
 * [Telegram Channel Link](https://t.me/rusthacks)
 * [Follow us on Twitter](https://twitter.com/rusthack)
