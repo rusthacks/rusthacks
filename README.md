@@ -21,7 +21,7 @@ This repo contains the following details:
 * [Rust Hacks Issue template](/.github/issue_template.md)
 * [Event Issue template](/Event_issue_format.md)
 * [Community Projects](/community_projects.md)
-* [Community Blog links](/community_blog.md)
+* [Community Blog links](https://blog.rust-lang.org/)
 * [Monthly Calls](/monthly_calls.md)
 
 ## Contribute:
