@@ -1,14 +1,18 @@
 # Rust Hacks Community Repo
 
-This repo covers the following:
+This repository is used for tracking [issues](https://github.com/rusthacks/rusthacks/issues/new?template=default.md) directly related to Rust Hacks. It covers the following:
 
-* Example code for Rust events.
+* [Example code for Rust events.](/code_examples)
 * Community-driven projects.
+* Teaching kits for Rust.
+* Resources for advanced learning and participation.
 * Our weekly status updates.
 
 ## Resources
 
 For resources specific to learning Rust, there's no better compilation than [this](https://github.com/ctjhoa/rust-learning).
+
+For Rust related design resources, check out [here](https://github.com/rusthacks/OpenDesign)
 
 For our resources, please take a look at [our wiki page](https://github.com/rusthacks/rusthacks/wiki).
 

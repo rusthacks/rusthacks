@@ -1,8 +1,8 @@
-## Goal: 
-[One line goal description] 
+## Goal:
+[One line goal description]
 
-## Related Issues & Links: 
-[Reference meta issues and past issues] #
+## Related Issues & Links:
+[Reference meta issues and past issues]
 
 ## Roles:
 
@@ -14,9 +14,9 @@ Supporting:
 
 Consulted:
 
-Informed: 
+Informed:
 
-## Required: 
-- [ ] Put mittens on all of the kittens (owner, Due: May 21st) 
-- [ ] Put mittens on all of the kittens (owner, Due: May 21st) 
+## Required:
+- [ ] Put mittens on all of the kittens (owner, Due: May 21st)
+- [ ] Put mittens on all of the kittens (owner, Due: May 21st)
 - [ ] Put mittens on all of the kittens (owner, Due: May 21st)
