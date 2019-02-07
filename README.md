@@ -10,11 +10,11 @@ This repository is used for tracking [issues](https://github.com/rusthacks/rusth
 
 ## Resources
 
-For resources specific to learning Rust, there's no better compilation than [this](https://github.com/ctjhoa/rust-learning).
+* For resources specific to learning Rust, there's no better compilation than [this](https://github.com/ctjhoa/rust-learning).
 
-For Rust related design resources, check out [here](https://github.com/rusthacks/OpenDesign)
+* For Rust related design resources, check out [here](https://github.com/rusthacks/OpenDesign)
 
-For our resources, please take a look at [our wiki page](https://github.com/rusthacks/rusthacks/wiki).
+* For our resources, please take a look at [our wiki page](https://github.com/rusthacks/rusthacks/wiki).
 
 ## Contribution
 
