@@ -15,6 +15,7 @@ This repository is used for tracking [issues](https://github.com/rusthacks/rusth
 * For Rust related design resources, check out [here](https://github.com/rusthacks/OpenDesign)
 
 * For our resources, please take a look at [our wiki page](https://github.com/rusthacks/rusthacks/wiki).
+* Some useful resources can be found [here](/best_resources.md)
 
 ## Contribution
 
