@@ -1,6 +1,6 @@
 # Rust Hacks Community Repo
 
-This repository is used for tracking [issues](https://github.com/rusthacks/rusthacks/issues/new?template=default.md) directly related to Rust Hacks. It covers the following:
+This repository is used for tracking issues directly related to Rust Hacks. It covers the following:
 
 * [Example code for Rust events.](/code_examples)
 * Community-driven projects.
@@ -16,6 +16,36 @@ This repository is used for tracking [issues](https://github.com/rusthacks/rusth
 
 * For our resources, please take a look at [our wiki page](https://github.com/rusthacks/rusthacks/wiki).
 * Some useful resources can be found [here](/best_resources.md)
+
+## Issue Template:
+
+[Click here](https://github.com/rowdymehul/ZimbraEX/issues/new?template=default.md) to create issue with default template
+
+```
+## Goal: 
+[One line goal description] 
+
+## Related Issues & Links: 
+[Reference meta issues and past issues] #
+
+## Roles:
+
+Responsible:
+
+Accountable:
+
+Supporting:
+
+Consulted:
+
+Informed: 
+
+## Required: 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th)
+```
+Note: Because of the way permissions work on this repo, if you can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you.
 
 ## Contribution
 
