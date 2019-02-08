@@ -19,7 +19,7 @@ This repository is used for tracking issues directly related to Rust Hacks. It c
 
 ## Issue Template:
 
-[Click here](https://github.com/rowdymehul/ZimbraEX/issues/new?template=default.md) to create issue with default template
+[Click here](https://github.com/rusthacks/rusthacks/issues/new?template=default.md) to create issue with default template
 
 ```
 ## Goal: 
